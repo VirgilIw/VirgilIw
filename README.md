@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Virgil I Ambar Full-Stack Developer</h1>
 <h3 align="center">Full-Stack Developer from Indonesia 🇮🇩. Passionate about building scalable applications and creating meaningful digital experiences using modern web technologies.</h3>
 
-- 🔭 I’m currently working on [Full-Stack Coffee Shop Ordering System](https://github.com/VirgilIw/Koda-b6-react)
-
 - 🌱 I’m currently learning **System Design, Backend Scalability, and Performance Optimization**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-psi-self.vercel.app/](https://portofolio-psi-self.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://portofolio-psi-self.vercel.app/)
 
 - 📝 I regularly write articles on [Coming soon...](Coming soon...)
 
