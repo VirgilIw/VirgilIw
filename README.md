@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Virgil I Ambar Full-Stack Developer</h1>
+<h1 align="center">
+  Hi 👋, I'm Virgil I Ambar <br/>
+  <sub>Full-Stack Developer</sub>
+</h1>
+
 <h3 align="center">Full-Stack Developer from Indonesia 🇮🇩. Passionate about building scalable applications and creating meaningful digital experiences using modern web technologies.</h3>
 
 - 🌱 I’m currently learning **System Design, Backend Scalability, and Performance Optimization**
