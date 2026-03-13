@@ -7,13 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portofolio-psi-self.vercel.app/](https://portofolio-psi-self.vercel.app/)
 
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
-
 - 💬 Ask me about **React, Golang (Gin), REST API, TailwindCSS, PostgreSQL, Full-Stack Development**
 
 - 📫 How to reach me **imanuelambar11@gmail.com**
 
-- 📄 Know about my experiences [Coming soon...](Coming soon...)
+- 📄 Know about my experiences — Fullstack Development with React (Frontend) and Golang (Backend)
 
 - ⚡ Fun fact **I enjoy turning ideas into real working products through clean and readable code.**
 
