@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Virgil I Ambar Full-Stack Developer</h1>
 <h3 align="center">Full-Stack Developer from Indonesia 🇮🇩. Passionate about building scalable applications and creating meaningful digital experiences using modern web technologies.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=virgiliw&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on [Full-Stack Coffee Shop Ordering System](https://github.com/VirgilIw/Koda-b6-react)
 
 - 🌱 I’m currently learning **System Design, Backend Scalability, and Performance Optimization**
