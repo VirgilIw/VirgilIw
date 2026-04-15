@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Virgil+I+Ambar+👋;Full-Stack+Developer+🚀;Building+Scalable+Apps+💡;Clean+Code+Enthusiast+✨" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Virgil+I+Ambar+👋;Full-Stack+Developer+🚀;Building+Scalable+Apps+💡;Clean+Code+Enthusiast+✨)](https://git.io/typing-svg)
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=VirgilIw&label=Profile+Views&color=6C63FF&style=flat-square" alt="visitor counter" />
-  <img src="https://img.shields.io/github/followers/VirgilIw?label=Followers&style=flat-square&color=6C63FF" alt="followers" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=VirgilIw&label=Profile+Views&color=6C63FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/VirgilIw?label=Followers&style=flat-square&color=6C63FF)](https://github.com/VirgilIw)
 
 </div>
 
@@ -103,7 +101,7 @@ fun_fact: I enjoy turning ideas into real working products.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgilIw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=VirgilIw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
