@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Virgil+I+Ambar+👋;Full-Stack+Developer+🚀;Building+Scalable+Apps+💡;Clean+Code+Enthusiast+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Virgil+I+Ambar+👋;Full-Stack+Developer+🚀;Building+Scalable+Apps+💡;Clean+Code+Enthusiast+✨)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VirgilIw&label=Profile+Views&color=6C63FF&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/VirgilIw?label=Followers&style=flat-square&color=6C63FF)](https://github.com/VirgilIw)
+![Profile Views](https://komarev.com/ghpvc/?username=VirgilIw&label=Profile+Views&color=FF6EB4&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/VirgilIw?label=Followers&style=flat-square&color=FF6EB4)](https://github.com/VirgilIw)
 
 </div>
 
@@ -35,7 +35,7 @@ fun_fact: I enjoy turning ideas into real working products.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Virgil%20I%20Ambar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgil-i-ambar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-psi-self.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF6EB4?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-psi-self.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-imanuelambar11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanuelambar11@gmail.com)
 
 </div>
@@ -82,7 +82,7 @@ fun_fact: I enjoy turning ideas into real working products.
 
 <div align="center">
 
-[![Coffee Shop](https://img.shields.io/badge/☕_Full--Stack_Coffee_Shop_Ordering_System-6C63FF?style=for-the-badge)](https://github.com/VirgilIw/Koda-b6-react)
+[![Coffee Shop](https://img.shields.io/badge/☕_Full--Stack_Coffee_Shop_Ordering_System-FF6EB4?style=for-the-badge)](https://github.com/VirgilIw/Koda-b6-react)
 
 > A full-stack coffee shop ordering system built with **React** (frontend) and **Golang/Gin** (backend), featuring JWT auth, Redis caching, and PostgreSQL.
 
